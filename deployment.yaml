@@ -12,7 +12,7 @@ app: java-test-app
 template: 
 metadata: 
 labels: 
-deployment.yaml 
+deployment.yaml: 
 app: java-test-app 
     spec: 
       containers: 
